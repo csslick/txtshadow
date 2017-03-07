@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>txtShadow</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="txtShadow.min.js"></script>
+	<style>
+		body{ 
+			text-align: center; 
+		}
+		.shadow{
+			position: relative;
+			margin: 0;
+			left: 50%; top: 100px;
+			margin-left: -130px;
+		    width: 260px;
+		    color: #38f;
+		    text-align: center;
+		    font-size: 64px;
+		    text-align: center;
+		    transition-duration: .5s;
+		}
+		.shadow:nth-of-type(2){ color: #f83;}		
+	</style>
+</head>
+<body>
+	<h1>Move Your Mouse</h1>
+	<h2 class='shadow'>Dynamic Text</h2>
+	<br><br>
+	<h2 class="shadow">Effect</h2>
+
+	<script>
+		$(function(){
+
+			// Use like this
+			$('.shadow').txtShadow();
+		});
+	</script>
+</body>
+</html>
