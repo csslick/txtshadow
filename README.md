@@ -17,7 +17,8 @@ $('.shadow').txtShadow({
   color: "red"  // shodow color value
 });
 ```
+view Demo(https://csslick.github.io/txtshadow/)
 
 ##Authors
 Michael Kwon(https://github.com/csslick)
-view Demo(https://csslick.github.io/txtshadow/)
+
