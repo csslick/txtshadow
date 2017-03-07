@@ -11,3 +11,12 @@ Dynamic Text Shadow jQuery Plug-In
 			$('.shadow').txtShadow();
 		});
 ```
+
+##Options
+```
+
+```
+
+
+##Authors
+Michael Kwon
