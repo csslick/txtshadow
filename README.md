@@ -19,4 +19,4 @@ Dynamic Text Shadow jQuery Plug-In
 
 
 ##Authors
-Michael Kwon
+Michael Kwon(https://github.com/csslick)
