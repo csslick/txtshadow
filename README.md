@@ -20,3 +20,5 @@ $('.shadow').txtShadow({
 
 ##Authors
 Michael Kwon(https://github.com/csslick)
+
+###view Demo(https://csslick.github.io/txtshadow/)
