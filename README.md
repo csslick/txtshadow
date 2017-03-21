@@ -1,4 +1,4 @@
-# txtShadow
+# txtShadow.js
 Dynamic Text Shadow jQuery Plug-In
 ==================================================
 
